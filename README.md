@@ -5,4 +5,4 @@
 - 🧱 Previous projects? => [tomasmaillo.com](https://tomasmaillo.com/) <br/>
 
 
-<h4 align="left" style="background-color:red"> Dont just be   <img src="https://komarev.com/ghpvc/?username=tomasmaillo&label=lurker%20num&color=ff44ff&style=flat" alt="machine-maker" />! <a href="https://discordapp.com/users/tomasmaillo#2792">Reach out</a> if just want to say hi or ask a question!</h4>
+<a href="https://discordapp.com/users/tomasmaillo#2792">Reach out</a> to ask a question or even just to say hi ❤️ </h4>
