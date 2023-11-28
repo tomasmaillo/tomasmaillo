@@ -1,6 +1,6 @@
 ### Hi :D
 
-- 👋 I'm Tomas, 19y/o <br/>
+- 👋 I'm Tomas, 20y/o <br/>
 - 👨‍💻 Web engineer, focusing on ReactJS <br/>
 - 🧱 Previous projects? => [tomasmaillo.com](https://tomasmaillo.com/) <br/>
 
