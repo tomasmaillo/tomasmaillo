@@ -1,7 +1,7 @@
 ### Hi :D
 
 - 👋 I'm Tomas, 21y/o <br/>
-- 👨‍💻 Web engineer, focusing on ReactJS <br/>
+- 👨‍💻 Soft engineer <br/>
 - 🧱 Previous projects? => [tomasmaillo.com](https://tomasmaillo.com/) <br/>
 
 
