@@ -1,7 +1,7 @@
 ### Hi :D
 
 - 👋 I'm Tomas, 21y/o <br/>
-- 👨‍💻 Soft engineer <br/>
+- 👨‍💻 Soft Eng <br/>
 - 🧱 Previous projects? => [tomasmaillo.com](https://tomasmaillo.com/) <br/>
 
 
