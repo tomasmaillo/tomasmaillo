@@ -1,6 +1,6 @@
-### Hi :D
+### Hi, I'm Tomas :D
 
-- 👋 I'm Tomas, 22y/o <br/>
-
-
-<a href="https://discordapp.com/users/tomasmaillo#2792">Reach out</a> to ask a question or even just to say hi ❤️ </h4>
+- CS + AI Grad from the University of Edinburgh
+- Software Engineer
+- My website → [tomasmaillo.com](https://tomasmaillo.com/)
+- Take a look at some of my public projects ↓
